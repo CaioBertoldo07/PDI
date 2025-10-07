@@ -22,7 +22,7 @@ const float CIRCLE_RADIUS = sqrt(AREA / M_PI);                // raio = √(áre
 // Função para aplicar transformações customizadas
 void applyCustomTransformations()
 {
-    // Translação customizada
+    // Translação
     glTranslatef(translateX, translateY, 0.0f);
 
     // Reflexão customizada (implementada como escala negativa)
@@ -30,10 +30,10 @@ void applyCustomTransformations()
     float reflectScaleY = reflectY ? -1.0f : 1.0f;
     glScalef(reflectScaleX, reflectScaleY, 1.0f);
 
-    // Escala customizad
+    // Escala
     glScalef(scaleX, scaleY, 1.0f);
 
-    // Rotação customizada
+    // Rotação 
     glRotatef(rotationAngle, 0.0f, 0.0f, 1.0f);
 }
 
@@ -43,6 +43,8 @@ void customRotate(float angle, float x, float y, float z)
     float radians = angle * M_PI / 180.0f;
     float cosA = cos(radians);
     float sinA = sin(radians);
+
+    
 
     GLfloat rotMatrix[16] = {
         cosA, sinA, 0, 0,
