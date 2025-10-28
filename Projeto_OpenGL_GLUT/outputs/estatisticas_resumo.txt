@@ -1,0 +1,65 @@
+================================================================================
+RESUMO ESTATÍSTICO - TESTE DE DESEMPENHO GPU/CPU
+================================================================================
+
+Total de testes realizados: 42
+FPS Médio Geral: 1344.41
+FPS Máximo: 2502.33
+FPS Mínimo: 78.72
+
+--------------------------------------------------------------------------------
+DESEMPENHO POR CONFIGURAÇÃO:
+--------------------------------------------------------------------------------
+
+Iluminação: Nao | Textura: Nao
+  FPS Médio: 1355.83
+  FPS Máximo: 2340.50
+  FPS Mínimo: 136.22
+
+Iluminação: Nao | Textura: Sim
+  FPS Médio: 1471.33
+  FPS Máximo: 2502.33
+  FPS Mínimo: 103.28
+
+Iluminação: Sim | Textura: Nao
+  FPS Médio: 1309.28
+  FPS Máximo: 2454.65
+  FPS Mínimo: 78.72
+
+Iluminação: Sim | Textura: Sim
+  FPS Médio: 1310.38
+  FPS Máximo: 2465.88
+  FPS Mínimo: 93.59
+
+--------------------------------------------------------------------------------
+ANÁLISE POR QUANTIDADE DE TRIÂNGULOS:
+--------------------------------------------------------------------------------
+
+1 Triângulos:
+  FPS Médio: 1840.05
+  Variação: 519.04
+
+10 Triângulos:
+  FPS Médio: 2392.41
+  Variação: 97.82
+
+50 Triângulos:
+  FPS Médio: 2010.88
+  Variação: 273.47
+
+100 Triângulos:
+  FPS Médio: 1863.25
+  Variação: 227.53
+
+500 Triângulos:
+  FPS Médio: 756.56
+  Variação: 143.24
+
+1000 Triângulos:
+  FPS Médio: 445.88
+  Variação: 101.96
+
+5000 Triângulos:
+  FPS Médio: 101.86
+  Variação: 19.20
+
