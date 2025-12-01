@@ -557,14 +557,6 @@ def main():
     """
     Função principal para executar a demonstração
     """
-    print("""
-    ╔══════════════════════════════════════════════════════════════╗
-    ║   DEMONSTRAÇÃO DE ANTISERRILHAMENTO (ANTI-ALIASING)        ║
-    ║   Processamento Digital de Imagens                          ║
-    ║   Aluno: Caio Bertoldo Bezerra                             ║
-    ║   UEA - Universidade do Estado do Amazonas                 ║
-    ╚══════════════════════════════════════════════════════════════╝
-    """)
     
     # Inicializar demonstração
     demo = AntiAliasingDemo(output_dir="resultados_antialiasing")
