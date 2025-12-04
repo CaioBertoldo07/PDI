@@ -1,43 +1,43 @@
 Triangulos,FPS,Iluminacao,Textura,TipoLuz
-1,1053.89,Nao,Nao,Sem luz
-1,1420.97,Sim,Nao,Omnidirecional
-1,1851.39,Sim,Nao,Spot
-1,2114.18,Nao,Sim,Sem luz
-1,2465.88,Sim,Sim,Omnidirecional
-1,2133.97,Sim,Sim,Spot
-10,2240.77,Nao,Nao,Sem luz
-10,2334.58,Sim,Nao,Omnidirecional
-10,2454.65,Sim,Nao,Spot
-10,2502.33,Nao,Sim,Sem luz
-10,2460.3,Sim,Sim,Omnidirecional
-10,2361.81,Sim,Sim,Spot
-50,2340.5,Nao,Nao,Sem luz
-50,2206.48,Sim,Nao,Omnidirecional
-50,1980.8,Sim,Nao,Spot
-50,2120.68,Nao,Sim,Sem luz
-50,1833.1,Sim,Sim,Omnidirecional
-50,1583.73,Sim,Sim,Spot
-100,2139.78,Nao,Nao,Sem luz
-100,1806.71,Sim,Nao,Omnidirecional
-100,1908.95,Sim,Nao,Spot
-100,2085.6,Nao,Sim,Sem luz
-100,1684.72,Sim,Sim,Omnidirecional
-100,1553.75,Sim,Sim,Spot
-500,1016.71,Nao,Nao,Sem luz
-500,618.307,Sim,Nao,Omnidirecional
-500,679.874,Sim,Nao,Spot
-500,817.748,Nao,Sim,Sem luz
-500,687.319,Sim,Sim,Omnidirecional
-500,719.405,Sim,Sim,Spot
-1000,562.96,Nao,Nao,Sem luz
-1000,445.793,Sim,Nao,Omnidirecional
-1000,438.114,Sim,Nao,Spot
-1000,555.491,Nao,Sim,Sem luz
-1000,302.938,Sim,Sim,Omnidirecional
-1000,369.963,Sim,Sim,Spot
-5000,136.224,Nao,Nao,Sem luz
-5000,104.569,Sim,Nao,Omnidirecional
-5000,78.7239,Sim,Nao,Spot
-5000,103.28,Nao,Sim,Sem luz
-5000,94.7788,Sim,Sim,Omnidirecional
-5000,93.5921,Sim,Sim,Spot
+1,2.30057,Nao,Nao,Sem luz
+1,532.665,Sim,Nao,Omnidirecional
+1,597.689,Sim,Nao,Spot
+1,551.981,Nao,Sim,Sem luz
+1,478.272,Sim,Sim,Omnidirecional
+1,480.785,Sim,Sim,Spot
+10,577.345,Nao,Nao,Sem luz
+10,493.778,Sim,Nao,Omnidirecional
+10,545.511,Sim,Nao,Spot
+10,517.369,Nao,Sim,Sem luz
+10,542.994,Sim,Sim,Omnidirecional
+10,506.544,Sim,Sim,Spot
+50,525.232,Nao,Nao,Sem luz
+50,525.836,Sim,Nao,Omnidirecional
+50,542.969,Sim,Nao,Spot
+50,500.886,Nao,Sim,Sem luz
+50,532.765,Sim,Sim,Omnidirecional
+50,543.212,Sim,Sim,Spot
+100,526.488,Nao,Nao,Sem luz
+100,537.217,Sim,Nao,Omnidirecional
+100,527.997,Sim,Nao,Spot
+100,547.957,Nao,Sim,Sem luz
+100,556.704,Sim,Sim,Omnidirecional
+100,514.585,Sim,Sim,Spot
+500,407.302,Nao,Nao,Sem luz
+500,384.547,Sim,Nao,Omnidirecional
+500,380.712,Sim,Nao,Spot
+500,404.998,Nao,Sim,Sem luz
+500,385.52,Sim,Sim,Omnidirecional
+500,346.425,Sim,Sim,Spot
+1000,309.633,Nao,Nao,Sem luz
+1000,232.284,Sim,Nao,Omnidirecional
+1000,240.261,Sim,Nao,Spot
+1000,286.786,Nao,Sim,Sem luz
+1000,230.611,Sim,Sim,Omnidirecional
+1000,233.49,Sim,Sim,Spot
+5000,78.8538,Nao,Nao,Sem luz
+5000,63.4833,Sim,Nao,Omnidirecional
+5000,54.9179,Sim,Nao,Spot
+5000,76.0471,Nao,Sim,Sem luz
+5000,58.8776,Sim,Sim,Omnidirecional
+5000,59.7886,Sim,Sim,Spot
